@@ -14,3 +14,7 @@ pinMode again in setup  for led as 7, output. For the switch to on and off on cl
 digitalWrite(7,LOW) else (7,HIGH) and our coding part is done. Then we connect our USB and  compile it and upload it and LED will be blinking on our command!
 
 
+#MECHANICAL DOMAIN LINK:-
+https://gmail5868545.autodesk360.com/g/shares/SH90d2dQT28d5b602811bb761023be5c35aa
+
+
